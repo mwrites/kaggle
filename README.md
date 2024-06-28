@@ -1,14 +1,14 @@
 # Walkthroughs of Kaggle Competitions
 
-A collection of notebooks for kaggle competitions
+Step by step solutions for kaggle competitions
 
 | Competition                           | Solution              | Score     |
 |---------------------------------------|-----------------------|-----------|
-| [disaster tweets](https://www.kaggle.com/competitions/nlp-getting-started)                       | AWD LSTM              | 0.79558   |
-| [paddy disease classification](https://www.kaggle.com/competitions/paddy-disease-classification)          | ConvNext Multi-labels | 0.96808   |
-| [us-patent-phrase-to-phrase-matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)   | NLP ULMFit            | 0.7812    |
-| [titanic](https://www.kaggle.com/competitions/titanic)                               | Random Forest        | 0.76794   |
-| [titanic](https://www.kaggle.com/competitions/titanic)                               | MLP                   | 0.7392    |
-| [titanic](https://www.kaggle.com/competitions/titanic)                               | Neural Net            | 0.7751    |
-| [titanic](https://www.kaggle.com/competitions/titanic)                               | Linear Model          | 0.77583   |
-| [digits-recognizer](https://www.kaggle.com/competitions/digit-recognizer)                     | Fastai, ResNet34      | 0.9932    |
+| [disaster tweets](./tweet_disasters_nlp.ipynb)                       | AWD LSTM              | 0.79558   |
+| [paddy disease classification]()          | ConvNext Multi-labels | 0.96808   |
+| [us-patent-phrase-to-phrase-matching](./us_patent_phrase_matching_nlp.ipynb)   | NLP ULMFit            | 0.7812    |
+| [titanic](./all_solutions_titanic.ipynb)                               | Random Forest        | 0.76794   |
+| [titanic](./all_solutions_titanic.ipynb)                               | MLP                   | 0.7392    |
+| [titanic](./all_solutions_titanic.ipynb)                               | Neural Net            | 0.7751    |
+| [titanic](./all_solutions_titanic.ipynb)                               | Linear Model          | 0.77583   |
+| [digits-recognizer](./top-6-fastai-blueprint-for-any-vision-classif.ipynb)                     | Fine-Tuning, Ensembling, TTA      | 0.9958 (top 6%)   |
