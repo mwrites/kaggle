@@ -12,3 +12,7 @@ Step by step solutions for kaggle competitions
 | [titanic](./all_solutions_titanic.ipynb)                               | Neural Net            | 0.7751    |
 | [titanic](./all_solutions_titanic.ipynb)                               | Linear Model          | 0.77583   |
 | [digits-recognizer](./top-6-fastai-blueprint-for-any-vision-classif.ipynb)                     | Fine-Tuning, Ensembling, TTA      | 0.9958 (top 6%)   |
+
+---
+
+ [How to make your first neural net from scratch](./your-first-neural-net-in-pytorch.ipynb)
