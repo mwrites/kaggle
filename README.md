@@ -4,6 +4,7 @@ Step by step solutions for kaggle competitions
 
 | Competition                           | Solution              | Score     |
 |---------------------------------------|-----------------------|-----------|
+| [poisonous mushrooms](./fast_and_poisonous.ipynb)  | Optuna + Cudf + XGBoost | 0.98478 |
 | [insurance cross selling](./insurance_cross_selling.ipynb)  | Entity Embeddings, XGBoost, Target Encoding | 0.87080 |
 | [disaster tweets](./tweet_disasters_nlp.ipynb)                       | AWD LSTM              | 0.79558   |
 | [paddy disease classification]()          | ConvNext Multi-labels | 0.96808   |
